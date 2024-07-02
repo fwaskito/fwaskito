@@ -7,7 +7,7 @@ I'm often involved in software engineering and system administration tasks. From
 
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=fwaskito&color=262626)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwaskito&layout=donut&theme=apprentice&hide_border=true&langs_count=6&hide=jupyter%20notebook,css)](https://github.com/fwaskito)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwaskito&layout=donut&theme=apprentice&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css)](https://github.com/fwaskito)
 
 #### Technology Used
 
